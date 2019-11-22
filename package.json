@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-london",
+  "name": "josefine-tveit",
   "private": true,
   "description": "A custom, image-centric theme for Gatsby",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
+  "author": "Martin Andersen <marander@pm.me>",
   "bugs": {
-    "url": "https://github.com/ImedAdel/gatsby-london/issues"
+    "url": "https://github.com/webmaeistro/makeup-by-josefine-tveit/issues"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
@@ -58,7 +58,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImedAdel/gatsby-london.git"
+    "url": "git+https://github.com/webmaeistro/makeup-by-josefine-tveit.git"
   },
   "scripts": {
     "build": "gatsby build",
