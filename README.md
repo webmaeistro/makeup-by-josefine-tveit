@@ -8,7 +8,7 @@
 
     ```sh
     # create a new Gatsby site using the blog starter
-    npx gatsby new my-awesome-portfolio https://github.com/ImedAdel/gatsby-london
+    npx gatsby new my-awesome-portfolio https://github.com/this repo
     ```
 
 1.  **Start developing.**
