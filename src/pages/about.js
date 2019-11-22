@@ -27,12 +27,18 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
-          <p>
-           Much love from schonkel
+          <h3 id="dynamic-styles">om Josefine Tveit</h3>
+          <p>           
+✨@artcomplexion - student
+✨Freelancer
+✨Hudpleier
+✨Piano
+
           </p>
-          <p>
-            
+    <h4 id="dynamic-styles">Kontaktinfo:</h3>      
+    <p>           
+Snapchat - josefinetveit
+Email - josefinetveit@outlook.com 
           
           </p>
           <p>
