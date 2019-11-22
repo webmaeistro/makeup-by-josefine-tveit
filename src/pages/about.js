@@ -35,8 +35,9 @@ const AboutPage = ({ data }, location) => {
 ✨Piano
 
           </p>
-    <h4 id="dynamic-styles">Kontaktinfo:</h3>      
-    <p>           
+      
+    <p>
+     Kontaktinfo: 
 Snapchat - josefinetveit
 Email - josefinetveit@outlook.com 
           
